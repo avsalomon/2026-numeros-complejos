@@ -1,6 +1,7 @@
 package org.example
 
 /*
+Modificado por https
 Trabajo practico 2026 - Ejercicio 1 - Clase Complejo (MIO)
 class Complejo {
     private var real: Int = 3 //no me deja poner private "val" porque necesito modificarlo con el metodo poner_valor_real
